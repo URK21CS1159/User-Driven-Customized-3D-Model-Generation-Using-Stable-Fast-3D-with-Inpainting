@@ -13,3 +13,7 @@ User-Centric Customization: The system will enable users to interactively modify
 High-Quality 3D Model Generation: The project will focus on producing textured object meshes that maintain visual fidelity and usability across various lighting conditions. SF3D's capabilities, such as illumination disentanglement and material property prediction, will be leveraged to ensure realistic rendering.
 
 Efficiency and Speed: A key aspect of the project is to maintain the rapid processing times characteristic of SF3D, aiming for a total processing time of under one second per model generation, including both in-painting and 3D reconstruction.
+
+
+**Demo**
+https://huggingface.co/spaces/stabilityai/stable-fast-3d
