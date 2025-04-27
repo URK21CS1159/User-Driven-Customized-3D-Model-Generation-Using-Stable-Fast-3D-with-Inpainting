@@ -5,7 +5,11 @@ This project presents a novel approach to generating high-quality 3D models from
 
 **Stable Fast 3D**
 The scope of this project encompasses the development and implementation of a comprehensive system for generating high-quality 3D models from single 2D images, integrating the Stable Fast 3D (SF3D) reconstruction method with an in-painting feature. The project aims to address existing challenges in 3D reconstruction while providing a user-friendly interface for customization. The specific areas covered within this scope include:
+
 Integration of SF3D and In-Painting: The project will focus on seamlessly combining SF3D's rapid and high-quality mesh generation capabilities with an advanced in-painting feature from Stable Diffusion. This integration will allow users to modify input images effectively, enhancing the quality and relevance of the resulting 3D models.
+
 User-Centric Customization: The system will enable users to interactively modify their 2D images through in-painting, allowing for corrections, enhancements, or creative alterations before the 3D reconstruction process. This feature is essential for applications where user input significantly influences the final output.
+
 High-Quality 3D Model Generation: The project will focus on producing textured object meshes that maintain visual fidelity and usability across various lighting conditions. SF3D's capabilities, such as illumination disentanglement and material property prediction, will be leveraged to ensure realistic rendering.
+
 Efficiency and Speed: A key aspect of the project is to maintain the rapid processing times characteristic of SF3D, aiming for a total processing time of under one second per model generation, including both in-painting and 3D reconstruction.
